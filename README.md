@@ -5,15 +5,11 @@
 
 ### General Information :
 ### a smart home system featuring five main functionalities:
--Light Control: Users can adjust the lighting by specifying a duration for which the lights should remain on.
-
--Temperature Control: The system allows users to regulate the temperature within the smart home.
-
--Door Management: Users can remotely open and close the door.
-
--Emergency Button: An emergency button is integrated into the system for immediate response.
-
--Password Protection: To enhance security, the smart home system is password-protected.
+- Light Control: Users can adjust the lighting by specifying a duration for which the lights should remain on.
+- Temperature Control: The system allows users to regulate the temperature within the smart home.
+- Door Management: Users can remotely open and close the door.
+- Emergency Button: An emergency button is integrated into the system for immediate response.
+- Password Protection: To enhance security, the smart home system is password-protected.
 
 
 ### Technologies Used :
